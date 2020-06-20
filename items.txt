@@ -1,0 +1,2 @@
+a 1 A/C 10 mango 37 orange 5 guvava 90 coler 3 water 5 banana 20 apple 20 paint 2 soap 9 candy 9 biscuit 18 curd 6 rice 11 
+mango 20 apple 50 banana 10 curd 10 rice 30 soap 40 candy 5 biscuit 30 paint 120 cooler 0 water 20 coler 5000 orange 50 guvava 10 A/C 28000 a 1 
